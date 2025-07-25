@@ -5,7 +5,7 @@ import datetime
 import pytz
 
 # ========== CONFIG ==========
-API_KEY = "899db61d39f640c5bbffc54fab5785e7"
+API_KEY = "806dd29a09244737ae6cd1a305061557"
 BASE_URL = "https://api.twelvedata.com/time_series"
 TIMEZONE = "Asia/Kolkata"
 INDICATOR_CONFIDENCE_THRESHOLD = 0.98
